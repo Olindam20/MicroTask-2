@@ -1,0 +1,1 @@
+API made with expressJS implementing JWT Authentication
